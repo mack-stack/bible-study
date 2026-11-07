@@ -1,0 +1,246 @@
+{
+ "books": [
+  {
+   "slug": "matthew",
+   "name": "Matthew",
+   "chapters": 28,
+   "intro": "The Gospel of Matthew is the first book of the New Testament, one of the four canonical Gospels, and one of the three synoptic Gospels. It tells of Jesus, recording his birth, his ministry from his baptism by John the Baptist, his crucifixion, his resurrection, and his mission to the world. It emphasizes that Jewish tradition should not be lost in an increasingly gentile church and presents Jesus as the Jewish Messiah who fulfills the prophecies written in the Jewish scriptures.",
+   "introUrl": "https://en.wikipedia.org/wiki/Gospel_of_Matthew",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Oxford%2C_Sackler_Library_Ms_LXIV_4404_%28Papyrus_104%29_recto_Matt_21%2C_34-37.jpg/330px-Oxford%2C_Sackler_Library_Ms_LXIV_4404_%28Papyrus_104%29_recto_Matt_21%2C_34-37.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "mark",
+   "name": "Mark",
+   "chapters": 16,
+   "intro": "The Gospel of Mark is the second of the four canonical Gospels and one of the three Synoptic Gospels. It narrates the ministry of Jesus from his baptism by John the Baptist to his crucifixion, his burial, and the discovery of his empty tomb. It portrays Jesus as a teacher, an exorcist, a healer, and a miracle worker.",
+   "introUrl": "https://en.wikipedia.org/wiki/Gospel_of_Mark",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Mark_16_first_lines%2C_Codex_Sinaiticus.png/330px-Mark_16_first_lines%2C_Codex_Sinaiticus.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "luke",
+   "name": "Luke",
+   "chapters": 24,
+   "intro": "The Gospel of Luke is a book in the New Testament that is the third of the canonical Gospels. It tells of the origins, birth, ministry, death, resurrection, and ascension of Jesus. Together with the Acts of the Apostles, it makes up a two-volume work called Luke–Acts, accounting for 27.5% of the New Testament.",
+   "introUrl": "https://en.wikipedia.org/wiki/Gospel_of_Luke",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Luke_13.29-35_and_14.10_%28CBL_BP_I%2C_f.15r%29.jpg/330px-Luke_13.29-35_and_14.10_%28CBL_BP_I%2C_f.15r%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "john",
+   "name": "John",
+   "chapters": 21,
+   "intro": "The Gospel of John is the fourth gospel of the canonical Gospels in the New Testament. The first section of the gospel presents a short introduction followed by a schematic account of the ministry of Jesus, with seven signs that culminate in the raising of Lazarus and validate the truth of his words. The second part of the text portrays the final week of Jesus’s life, recounting the Farewell Discourse and the passion and resurrection narratives.",
+   "introUrl": "https://en.wikipedia.org/wiki/Gospel_of_John",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/JRL19060215_%28cropped%29.jpg/330px-JRL19060215_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "acts",
+   "name": "Acts",
+   "chapters": 28,
+   "intro": "The Acts of the Apostles is the fifth book of the New Testament. It recounts the founding of the Christian Church and the spread of its message across the Roman Empire. Acts comprises the second part of a two-volume work known as Luke-Acts with its predecessor, the Gospel of Luke.",
+   "introUrl": "https://en.wikipedia.org/wiki/Acts_of_the_Apostles",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Berlin%2C_Staatliche_Museen_zu_Berlin_MS_Uncial_8683_verso_Acts_5%2C_12%E2%80%9321.jpg/330px-Berlin%2C_Staatliche_Museen_zu_Berlin_MS_Uncial_8683_verso_Acts_5%2C_12%E2%80%9321.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "romans",
+   "name": "Romans",
+   "chapters": 16,
+   "intro": "The Epistle to the Romans is the sixth book in the New Testament, and the longest of the thirteen Pauline epistles. Biblical scholars agree that it was composed by Paul the Apostle to explain that salvation is offered through the gospel of Jesus Christ.",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_to_the_Romans",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Uncial_0220_Rom-4.23-5.3.jpg/330px-Uncial_0220_Rom-4.23-5.3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "1-corinthians",
+   "name": "1 Corinthians",
+   "chapters": 16,
+   "intro": "The First Epistle to the Corinthians is among the Pauline epistles in the New Testament. It was written to address various issues that had arisen in the Christian congregation at Corinth, such as divisions in the church; sexual immorality; directions on marriage, food sacrificed to idols, worship, and spiritual gifts; and the resurrection of Jesus.",
+   "introUrl": "https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._79v_1_Cor_2%2C_11%E2%80%933%2C_5.jpg/330px-Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._79v_1_Cor_2%2C_11%E2%80%933%2C_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "2-corinthians",
+   "name": "2 Corinthians",
+   "chapters": 13,
+   "intro": "The Second Epistle to the Corinthians is a Pauline epistle of the New Testament of the Christian Bible. The epistle is attributed to Paul the Apostle and a co-author named Timothy, and is addressed to the church in Corinth and Christians in the surrounding province of Achaea, in modern-day Greece. According to Jerome, Titus was the amanuensis of this epistle.",
+   "introUrl": "https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._142r_-_2_Corinthians_11%2C33-12%2C9.jpg/330px-Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._142r_-_2_Corinthians_11%2C33-12%2C9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "galatians",
+   "name": "Galatians",
+   "chapters": 6,
+   "intro": "The Epistle to the Galatians is the ninth book of the New Testament of the Christian Bible and the fourth of the Pauline epistles in traditional arrangement. It is a letter from Paul the Apostle to a number of Early Christian communities in Galatia. Scholars have suggested that this is either the Roman province of Galatia in southern Anatolia, or a large region defined by Galatians, an ethnic group of Celtic people in central Anatolia. The letter was originally written in Koine Greek and later translated into other languages.",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_to_the_Galatians",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._158r_Eph_6%2C_20%E2%80%93Gal_1%2C_8.jpg/330px-Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._158r_Eph_6%2C_20%E2%80%93Gal_1%2C_8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "ephesians",
+   "name": "Ephesians",
+   "chapters": 6,
+   "intro": "The Epistle to the Ephesians is a Pauline epistle and the tenth book of the New Testament of the Christian Bible. It stands among the canonical writings that shaped early Christian identity and is traditionally grouped with the letters attributed to Paul the Apostle.",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._157v_Eph_6%2C_8%E2%80%9318.jpg/330px-Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._157v_Eph_6%2C_8%E2%80%9318.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "philippians",
+   "name": "Philippians",
+   "chapters": 4,
+   "intro": "The Epistle to the Philippians is a Pauline epistle of the New Testament of the Christian Bible. The epistle is attributed to Paul the Apostle and Timothy is named with him as co-author or co-sender. The letter is addressed to the Christian church in Philippi. Paul, Timothy, Silas first visited Philippi in Greece (Macedonia) during Paul's second missionary journey from Antioch, which occurred between approximately 50 and 52 AD. In the account of his visit in the Acts of the Apostles, Paul and Silas are accused of \"disturbing the city\".",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_to_the_Philippians",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dublin%2C_Chester_Beatty_Ms_BP_II_fol._15%2690_Bifolio_from_Paul%27s_Letter_to_the_Romans%2C_the_end_of_Paul%27s_Letter_to_the_Philippians_and_the_beginning_of_Paul%27s_Letter_to_the_Colossians.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "colossians",
+   "name": "Colossians",
+   "chapters": 4,
+   "intro": "The Epistle to the Colossians is a Pauline epistle and the twelfth book of the New Testament of the Christian Bible. It was written, according to the text, by Paul the Apostle and Timothy, and addressed to the church in Colossae, a small Phrygian city near Laodicea and approximately 100 miles (160 km) from Ephesus in Asia Minor.",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_to_the_Colossians",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dublin%2C_Chester_Beatty_Ms_BP_II_fol._15%2690_Bifolio_from_Paul%27s_Letter_to_the_Romans%2C_the_end_of_Paul%27s_Letter_to_the_Philippians_and_the_beginning_of_Paul%27s_Letter_to_the_Colossians.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "1-thessalonians",
+   "name": "1 Thessalonians",
+   "chapters": 5,
+   "intro": "The First Epistle to the Thessalonians is a Pauline epistle of the New Testament of the Christian Bible. The epistle is attributed to Paul the Apostle, and is addressed to the church in Thessalonica, in modern-day Greece.",
+   "introUrl": "https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Rembrandt_Harmensz._van_Rijn_163.jpg/330px-Rembrandt_Harmensz._van_Rijn_163.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "2-thessalonians",
+   "name": "2 Thessalonians",
+   "chapters": 3,
+   "intro": "The Second Epistle to the Thessalonians is a Pauline epistle from the New Testament of the Christian Bible. It is traditionally attributed to Paul the Apostle, with Timothy as a co-author. Its authorship is disputed, with critical commentators being evenly divided on Pauline authorship. According to a poll at the British New Testament Conference in Nottingham on the 2nd of September 2011, a slight majority leaning on the side of its authenticity. Those who reject its authenticity point to differences in style and theology between it and the First Epistle to the Thessalonians, which is undisputed.",
+   "introUrl": "https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Codex_Vaticanus_B%2C_2Thess._3%2C11-18%2C_Hebr._1%2C1-2%2C2.jpg/330px-Codex_Vaticanus_B%2C_2Thess._3%2C11-18%2C_Hebr._1%2C1-2%2C2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "1-timothy",
+   "name": "1 Timothy",
+   "chapters": 6,
+   "intro": "The First Epistle to Timothy is one of three letters in the New Testament of the Bible often grouped together as the pastoral epistles, along with Second Timothy and Titus. The letter is traditionally attributed to the Apostle Paul and consists mainly of counsels to his younger colleague and delegate Timothy regarding his ministry in Ephesus (1:3). These counsels include instructions on the organization of the Church and the responsibilities resting on certain groups of leaders therein as well as exhortations to faithfulness in maintaining the truth amid surrounding errors.",
+   "introUrl": "https://en.wikipedia.org/wiki/First_Epistle_to_Timothy",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1_Timothy_1_and_2_in_Sinaiticus.jpg/330px-1_Timothy_1_and_2_in_Sinaiticus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "2-timothy",
+   "name": "2 Timothy",
+   "chapters": 4,
+   "intro": "The Second Epistle to Timothy is one of the three pastoral epistles traditionally attributed to Paul the Apostle. Addressed to Timothy, a fellow missionary, it is traditionally considered to be the last epistle Paul wrote before his death. The original language is Koine Greek.",
+   "introUrl": "https://en.wikipedia.org/wiki/Second_Epistle_to_Timothy",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/End_of_1_Timothy_and_beginning_of_2_Timothy_in_Sinaiticus.jpg/330px-End_of_1_Timothy_and_beginning_of_2_Timothy_in_Sinaiticus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "titus",
+   "name": "Titus",
+   "chapters": 3,
+   "intro": "The Epistle to Titus is one of the three pastoral epistles in the New Testament, historically attributed to Paul the Apostle. It is addressed to Saint Titus and describes the requirements and duties of presbyters/bishops.",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_to_Titus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Manchester%2C_John_Rylands_University_Library_Ms_Gr._P_5_%28Papyrus_32%29_recto_Titus_1%2C_11-15.jpg/330px-Manchester%2C_John_Rylands_University_Library_Ms_Gr._P_5_%28Papyrus_32%29_recto_Titus_1%2C_11-15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "philemon",
+   "name": "Philemon",
+   "chapters": 1,
+   "intro": "The Epistle to Philemon is a Pauline epistle of the New Testament of the Christian Bible. It is a prison letter, authored by Paul the Apostle, to Philemon, a leader in the Colossian church. Paul does not identify himself as an apostle with authority, but as \"a prisoner of Jesus Christ\", calling Timothy \"our brother\", and addressing Philemon as \"fellow labourer\" and \"brother\". Onesimus, a slave who had escaped from his master Philemon, was returning with this epistle wherein Paul asked Philemon to receive him as a \"brother beloved\". The letter appeals on behalf of Onesimus, who subsequently became a Christian through Paul. Paul requests that Philemon receive Onesimus not as a slave but as a beloved brother in Christ, offering to repay any debt Onesimus owes.",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_to_Philemon",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Cologne%2C_Uni_K%C3%B6ln_Ms_Papyrus_12_recto_Philemon_13-15.jpg/330px-Cologne%2C_Uni_K%C3%B6ln_Ms_Papyrus_12_recto_Philemon_13-15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "hebrews",
+   "name": "Hebrews",
+   "chapters": 13,
+   "intro": "The Epistle to the Hebrews, often referred to as Hebrews, is one of the books of the New Testament.",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_to_the_Hebrews",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Papyrus_13_-_British_Library_Papyrus_1532_-_Epistle_to_the_Hebrews_-_2.jpg/330px-Papyrus_13_-_British_Library_Papyrus_1532_-_Epistle_to_the_Hebrews_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "james",
+   "name": "James",
+   "chapters": 5,
+   "intro": "The Epistle of James is a general epistle and one of the 21 epistles in the New Testament. It was written originally in Koine Greek. The epistle aims to reach a wide Jewish audience. It survives in manuscripts from the 3rd century onward and is dated between the mid-1st and mid-2nd century AD.",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_of_James",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/96/Saint_James_the_Just.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+   "slug": "1-peter",
+   "name": "1 Peter",
+   "chapters": 5,
+   "intro": "The First Epistle of Peter is a book of the New Testament. The author presents himself as Peter the Apostle. The ending of the letter includes a statement that implies that it was written from \"Babylon\", which may be a reference to Rome. The letter is addressed to the \"chosen pilgrims of the diaspora\" in Asia Minor suffering religious persecution.",
+   "introUrl": "https://en.wikipedia.org/wiki/First_Epistle_of_Peter",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Papyrus_Bodmer_VIII.jpg/330px-Papyrus_Bodmer_VIII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "2-peter",
+   "name": "2 Peter",
+   "chapters": 3,
+   "intro": "2 Peter, also known as the Second Epistle of Peter and abbreviated as 2 Pet., is an epistle of the New Testament written in Koine Greek. It identifies the author as \"Simon Peter, a bondservant and apostle of Jesus Christ\". The epistle is traditionally attributed to Peter the Apostle, but most critical scholars consider the epistle pseudepigraphical. Scholars estimate the date of authorship anywhere from AD 60 to 150.",
+   "introUrl": "https://en.wikipedia.org/wiki/Second_Epistle_of_Peter",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Papyrus_Bodmer_VIII.jpg/330px-Papyrus_Bodmer_VIII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "1-john",
+   "name": "1 John",
+   "chapters": 5,
+   "intro": "The First Epistle of John is the first of the Johannine epistles of the New Testament, and the fourth of the catholic epistles. There is no scholarly consensus as to the authorship of the Johannine works. Most scholars believe the three Johannine epistles have the same author, but there is no consensus if this was also the author of the Gospel of John.",
+   "introUrl": "https://en.wikipedia.org/wiki/First_Epistle_of_John",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Papyrus_9_-_P._Oxy._III_402_-_Houghton_Library_MS_Gr_SM3736_-_First_Epistle_of_John%2C_4%2C11%E2%80%9312%2C14%E2%80%9317_-_recto.jpg/330px-Papyrus_9_-_P._Oxy._III_402_-_Houghton_Library_MS_Gr_SM3736_-_First_Epistle_of_John%2C_4%2C11%E2%80%9312%2C14%E2%80%9317_-_recto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "2-john",
+   "name": "2 John",
+   "chapters": 1,
+   "intro": "The Second Epistle of John is a book of the New Testament attributed to John the Evangelist, traditionally thought to be the author of the other two epistles of John, and the Gospel of John. Most modern scholars believe this is not John the Apostle, but in general there is no consensus as to the identity of this person or group.",
+   "introUrl": "https://en.wikipedia.org/wiki/Second_Epistle_of_John",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/End_of_1_John_and_beginning_of_2_John_in_Sinaiticus.jpg/330px-End_of_1_John_and_beginning_of_2_John_in_Sinaiticus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "3-john",
+   "name": "3 John",
+   "chapters": 1,
+   "intro": "The Third Epistle of John is the third-to-last book of the New Testament and the Christian Bible as a whole, and attributed to John the Evangelist, traditionally thought to be the author of the Gospel of John and the other two epistles of John. The Third Epistle of John is a personal letter sent by \"the elder\" to a man named Gaius, recommending to him a group of Christians led by Demetrius, which had come to preach the gospel in the area where Gaius lived. The purpose of the letter is to encourage and strengthen Gaius, and to warn him against Diotrephes, who refuses to cooperate with the author of the letter.",
+   "introUrl": "https://en.wikipedia.org/wiki/Third_Epistle_of_John",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2_John%2C_3_John%2C_and_Jude_in_Sinaiticus.jpg/330px-2_John%2C_3_John%2C_and_Jude_in_Sinaiticus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "jude",
+   "name": "Jude",
+   "chapters": 1,
+   "intro": "The Epistle of Jude is the penultimate book of the New Testament and of the Christian Bible. The Epistle of Jude claims authorship by Jude, identified as a servant of Jesus and brother of James, though there is scholarly debate about his exact identity, literacy, and the letter's date. It was most likely written in the late first century, with some considering its authorship pseudepigraphical.",
+   "introUrl": "https://en.wikipedia.org/wiki/Epistle_of_Jude",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/P078-Jud-1_4-5-POxy2684-III-IV.jpg/330px-P078-Jud-1_4-5-POxy2684-III-IV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+   "slug": "revelation",
+   "name": "Revelation",
+   "chapters": 22,
+   "intro": "The Book of Revelation, also known as the Book of the Apocalypse or the Apocalypse of John, is canonically the last book of the New Testament. Written in Greek, its title is derived from the first word of the text, apocalypse, which means \"revelation\" or \"unveiling\". The Book of Revelation is the only apocalyptic book in the New Testament canon, and occupies a central place in Christian eschatology.",
+   "introUrl": "https://en.wikipedia.org/wiki/Book_of_Revelation",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Dublin%2C_Chester_Beatty_Ms_Chester_Beatty_III_Papyrus_47_fol._7r_Rev_13%2C16-14.jpg/330px-Dublin%2C_Chester_Beatty_Ms_Chester_Beatty_III_Papyrus_47_fol._7r_Rev_13%2C16-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+ ],
+ "context": {
+  "ephesus": {
+   "title": "Ephesus",
+   "extract": "Ephesus ( EF-uh-suhs; Ancient Greek: Έφεσος) was an ancient Greek city on the coast of Ionia, in present-day Selçuk in İzmir Province, Turkey. It was built in the 10th century BC on the site of Apasa, a city-state that was also the capital of Arzawa, by Attic and Ionian Greek colonists. During the Classical Greek era, it was one of twelve cities that were members of the Ionian League. The city came under the control of the Roman Republic in 129 BC.\nThe city was famous in its day for the nearby Temple of Artemis (completed around 550 BC), which has been designated one of the Seven Wonders of the Ancient World. Its many monumental buildings included the Library of Celsus and a theatre capable of holding 24,000 spectators.\nEphesus was a recipient city of one of the Pauline epistles and one of the seven churches of Asia addressed in the Book of Revelation. The Gospel of John may have been written there, and it was the site of several 5th-century Christian Councils (Council of Ephesus). The city was destroyed by the Goths in 263. Although it was afterwards rebuilt, its importance as a port and commercial centre declined as the harbour was slowly silted up by the Küçükmenderes River. In 614, it was partially destroyed by an earthquake.\nToday, the ruins of Ephesus are a favourite international and local tourist attraction, being accessible from Adnan Menderes Airport and from the resort town Kuşadası. In 2015, the ruins were designated a UNESCO World Heritage Site.",
+   "url": "https://en.wikipedia.org/wiki/Ephesus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ephesus_Celsus_Library_Fa%C3%A7ade.jpg/330px-Ephesus_Celsus_Library_Fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "artemis": {
+   "title": "Temple of Artemis",
+   "extract": "The Temple of Artemis or Artemision, also known as the Temple of Diana, was a Greek temple dedicated to a localised form of the goddess Artemis (equated with the Roman goddess Diana). It was located in Ephesus, near modern-day Selçuk in Turkey and is considered one of the Seven Wonders of the Ancient World. The temple was destroyed and rebuilt many times in antiquity; the last incarnation of the temple was destroyed in 262 AD, although Artemis continued to be worshipped at the site until around 401 AD. Only foundations and fragments of the last temple remain in the present day; some aspects of its appearance must be inferred by comparing archaeological evidence with ancient accounts.\nThe beginning of the history of the temple is unclear. It is known, however, that the earliest version of the temple was destroyed by a flood in the 7th century BC. A more elaborate reconstruction of the temple began around 550 BC under the leadership of the Greek architect from Crete Chersiphron, funded by Croesus of Lydia. This version of the temple lasted until 356 BC, when it was burned down by an arsonist, popularly identified as Herostratus.\nThe final form of the temple was funded by the people of Ephesus. The temple was central to Ephesian life, as it had great political and social value to its citizens. The Ephesian Artemis, which was considered as separate from the Hellenic version of the god, had unique features and artifacts associated with her and was seen as a protector of the city.",
+   "url": "https://en.wikipedia.org/wiki/Temple_of_Artemis",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Miniaturk_009.jpg/330px-Miniaturk_009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "koine": {
+   "title": "Koine Greek",
+   "extract": "Koine Greek (ἡ κοινὴ διάλεκτος, hē koinḕ diálektos, lit. 'the common dialect'), also variously known as Hellenistic Greek, Biblical Greek, Septuagint Greek or New Testament Greek, was the common supra-regional form of Greek spoken and written during the Hellenistic period, the Roman Empire, and the early Byzantine Empire. It evolved from the spread of Greek following the conquests of Alexander the Great in the fourth century BC, and served as the lingua franca of much of the Mediterranean region and the Middle East during the following centuries. It was based mainly on Attic and related Ionic speech forms, with various admixtures brought about through dialect levelling with other varieties.\nKoine Greek included styles ranging from conservative literary forms to the spoken vernaculars of the time. As the dominant language of the Byzantine Empire, it developed further into Medieval Greek, which informed Modern Greek.\n\nLiterary Koine was the medium of much post-classical Greek literary and scholarly writing, such as the works of Plutarch and Polybius. Koine is also the language of the Septuagint (the 3rd century BC Greek translation of the Hebrew Bible), the Christian New Testament, and of most early Christian theological writing by the Church Fathers. In this context, Koine Greek is also known as \"Biblical\", \"New Testament\", \"ecclesiastical\", or \"patristic\" Greek. The Roman Emperor Marcus Aurelius wrote his private thoughts in Koine Greek in a work that is now known as Meditations. Koine Greek continues to be used as the liturgical language of services in the Greek Orthodox Church and in some Greek Catholic churches.",
+   "url": "https://en.wikipedia.org/wiki/Koine_Greek",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Greek_Script_from_Rosetta_Stone_%2836140196440%29.jpg/330px-Greek_Script_from_Rosetta_Stone_%2836140196440%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+ },
+ "ephesusBooks": [
+  "ephesians",
+  "1-timothy",
+  "2-timothy",
+  "acts"
+ ]
+}
